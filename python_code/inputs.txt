@@ -1,9 +1,9 @@
-MAX_DIV	1000
+MAX_DIV	100
 lambd	2.0
-H	1.0/2.0
+H	1.0/4.0
 sigma	2.0
-data_point	6000
-traj_num	20000
+data_point	100
+traj_num	18
 T	30.0
 eq_dist	eqDist
 noneqdist	1.5
